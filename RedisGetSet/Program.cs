@@ -20,6 +20,7 @@ namespace RedisGetSet
 
             Console.WriteLine(db.StringGet("Gender"));
             Console.WriteLine("All the Git are changed");
+            Console.WriteLine("Hi every one");
         }
     }
 }
